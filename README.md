@@ -22,6 +22,9 @@ The goal of the project is to identify a dog according to his breed. If the imag
 6.	Writing and testing the overall Algorithm
 
 ## Dataset:
+- [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
+- [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
+- [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz)
 The datasets are provided by Udacity, the details found after loading the data set are mentioned below:
 1.	There are 133 total dog categories and 8351 total dog images
 2.	Training dog images: 6680
@@ -50,8 +53,11 @@ This model obtains a test accuracy of ~ 80%. We don’t do any hyper paramter tu
 The output is much better than what was expected. I was pleasantly surprised about the effectiveness of the InceptionV3 bottleneck features.
 
 ## Files in the repository:
-1. dog_app.ipynb: Notebook to process data, train and explore models and perform final evaluation
+1. dog_app.ipynb: Notebook with fully functional code, all code cells executed, displaying output, and all questions answered.
 2. README.md: Readme explaining the overview of the project
+3. report.html: Exporting the Jupyter Notebook with all cells run into a html
+4. Result1.PNG: Results of classifier
+5. Result2.PNG: Results of classifier 
 
 ## Libraries:
 1.	Python 3.7+
