@@ -44,6 +44,7 @@ This model obtains a test accuracy of ~ 80%. We don’t do any hyper paramter tu
 
 ### Results
 ![Alt text](https://github.com/surabhi-dubey/dog_classifier_capstone/blob/main/Result1.PNG)
+![Alt text](https://github.com/surabhi-dubey/dog_classifier_capstone/blob/main/Result2.PNG)
 
 ## Conclusion:
 The output is much better than what was expected. I was pleasantly surprised about the effectiveness of the InceptionV3 bottleneck features.
