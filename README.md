@@ -2,7 +2,7 @@
 # dog_classifier_capstone
 
 ## Link to the Blog Post on Medium
-- The project write is available here [https://surabhisd443.medium.com/dog-breed-classifier-b18015dc209]
+- The project writeup is available here [https://surabhisd443.medium.com/dog-breed-classifier-b18015dc209]
 
 ## Project Overview:
 The model developed in this project takes an image as an input and the following steps are followed:
@@ -43,7 +43,7 @@ Here, the model we’re choosing makes use of the inceptionv3 model as a feature
 This model obtains a test accuracy of ~ 80%. We don’t do any hyper paramter tuning, which can improve the accuracy further. By default, we use a batch size of 20 and the default learning rate.
 
 ### Results
-![Alt text](https://github.com/surabhi-dubey/Disaster_response_pipeline/blob/master/Visualisation2.PNG?raw=true "Visualisation2")
+![Alt text](https://github.com/surabhi-dubey/dog_classifier_capstone/blob/main/Result1.PNG)
 
 ## Conclusion:
 The output is much better than what was expected. I was pleasantly surprised about the effectiveness of the InceptionV3 bottleneck features.
